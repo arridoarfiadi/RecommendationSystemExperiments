@@ -1,0 +1,888 @@
+{
+  "DemoRecommendations": [
+    {
+      "ProductID": 24852,
+      "Recommendations": [
+        {
+          "ProductID": 2180,
+          "Similarity": 0.9581548604970944
+        },
+        {
+          "ProductID": 4920,
+          "Similarity": 0.9575849806657212
+        },
+        {
+          "ProductID": 45,
+          "Similarity": 0.9539498389614333
+        },
+        {
+          "ProductID": 546,
+          "Similarity": 0.9533353399242639
+        },
+        {
+          "ProductID": 2350,
+          "Similarity": 0.9532805659514801
+        },
+        {
+          "ProductID": 260,
+          "Similarity": 0.9527991755789215
+        },
+        {
+          "ProductID": 1090,
+          "Similarity": 0.9526598825705076
+        },
+        {
+          "ProductID": 432,
+          "Similarity": 0.9505658866035553
+        },
+        {
+          "ProductID": 1503,
+          "Similarity": 0.9503540192474373
+        },
+        {
+          "ProductID": 34,
+          "Similarity": 0.9500936923386312
+        }
+      ]
+    },
+    {
+      "ProductID": 204,
+      "Recommendations": [
+        {
+          "ProductID": 605,
+          "Similarity": 0.9899078063186304
+        },
+        {
+          "ProductID": 79,
+          "Similarity": 0.9812502851213172
+        },
+        {
+          "ProductID": 160,
+          "Similarity": 0.9783329161727363
+        },
+        {
+          "ProductID": 141,
+          "Similarity": 0.9769044449119814
+        },
+        {
+          "ProductID": 260,
+          "Similarity": 0.9737300508783016
+        },
+        {
+          "ProductID": 283,
+          "Similarity": 0.9674977315883772
+        },
+        {
+          "ProductID": 165,
+          "Similarity": 0.9652363803954664
+        },
+        {
+          "ProductID": 149,
+          "Similarity": 0.9651650631755389
+        },
+        {
+          "ProductID": 219,
+          "Similarity": 0.964760168756554
+        },
+        {
+          "ProductID": 95,
+          "Similarity": 0.9640806619417901
+        }
+      ]
+    },
+    {
+      "ProductID": 21903,
+      "Recommendations": [
+        {
+          "ProductID": 5479,
+          "Similarity": 0.9750082715764813
+        },
+        {
+          "ProductID": 3464,
+          "Similarity": 0.9744203094808832
+        },
+        {
+          "ProductID": 890,
+          "Similarity": 0.9724648476272558
+        },
+        {
+          "ProductID": 481,
+          "Similarity": 0.9717834761843874
+        },
+        {
+          "ProductID": 260,
+          "Similarity": 0.9707541122957891
+        },
+        {
+          "ProductID": 248,
+          "Similarity": 0.9701720898905012
+        },
+        {
+          "ProductID": 160,
+          "Similarity": 0.9700600651475987
+        },
+        {
+          "ProductID": 2581,
+          "Similarity": 0.9692058699764119
+        },
+        {
+          "ProductID": 1516,
+          "Similarity": 0.9690857364340654
+        },
+        {
+          "ProductID": 810,
+          "Similarity": 0.9689024068163274
+        }
+      ]
+    },
+    {
+      "ProductID": 44142,
+      "Recommendations": [
+        {
+          "ProductID": 45,
+          "Similarity": 0.9754607261201508
+        },
+        {
+          "ProductID": 424,
+          "Similarity": 0.9703333462256082
+        },
+        {
+          "ProductID": 546,
+          "Similarity": 0.9676991380393449
+        },
+        {
+          "ProductID": 432,
+          "Similarity": 0.9640252337368759
+        },
+        {
+          "ProductID": 210,
+          "Similarity": 0.9539286745467151
+        },
+        {
+          "ProductID": 248,
+          "Similarity": 0.9464190378059378
+        },
+        {
+          "ProductID": 421,
+          "Similarity": 0.9429432963560606
+        },
+        {
+          "ProductID": 260,
+          "Similarity": 0.9425725746898427
+        },
+        {
+          "ProductID": 581,
+          "Similarity": 0.9403534271746841
+        },
+        {
+          "ProductID": 3376,
+          "Similarity": 0.939786125207092
+        }
+      ]
+    },
+    {
+      "ProductID": 44500,
+      "Recommendations": [
+        {
+          "ProductID": 28,
+          "Similarity": 0.8272624139721677
+        },
+        {
+          "ProductID": 37,
+          "Similarity": 0.7945991229804942
+        },
+        {
+          "ProductID": 27,
+          "Similarity": 0.7432452312785339
+        },
+        {
+          "ProductID": 4,
+          "Similarity": 0.7408174310347011
+        },
+        {
+          "ProductID": 29,
+          "Similarity": 0.7079025720838369
+        },
+        {
+          "ProductID": 12,
+          "Similarity": 0.670511011924525
+        },
+        {
+          "ProductID": 45,
+          "Similarity": 0.5756998518907309
+        },
+        {
+          "ProductID": 34,
+          "Similarity": 0.5385496932833785
+        },
+        {
+          "ProductID": 26,
+          "Similarity": 0.5379360208374744
+        },
+        {
+          "ProductID": 10,
+          "Similarity": 0.4986576440204357
+        }
+      ]
+    },
+    {
+      "ProductID": 44632,
+      "Recommendations": [
+        {
+          "ProductID": 34,
+          "Similarity": 0.9784424198065279
+        },
+        {
+          "ProductID": 210,
+          "Similarity": 0.9695944943575797
+        },
+        {
+          "ProductID": 311,
+          "Similarity": 0.9679272249490355
+        },
+        {
+          "ProductID": 546,
+          "Similarity": 0.9671487044276804
+        },
+        {
+          "ProductID": 248,
+          "Similarity": 0.966469177005253
+        },
+        {
+          "ProductID": 2450,
+          "Similarity": 0.965230571264127
+        },
+        {
+          "ProductID": 432,
+          "Similarity": 0.9646101880592742
+        },
+        {
+          "ProductID": 1158,
+          "Similarity": 0.9645856774535717
+        },
+        {
+          "ProductID": 260,
+          "Similarity": 0.9640095905409781
+        },
+        {
+          "ProductID": 691,
+          "Similarity": 0.9635293173571922
+        }
+      ]
+    },
+    {
+      "ProductID": 20479,
+      "Recommendations": [
+        {
+          "ProductID": 37,
+          "Similarity": 0.8616964472212912
+        },
+        {
+          "ProductID": 83,
+          "Similarity": 0.8561112410316963
+        },
+        {
+          "ProductID": 28,
+          "Similarity": 0.8266597391000677
+        },
+        {
+          "ProductID": 9,
+          "Similarity": 0.7770034060436898
+        },
+        {
+          "ProductID": 29,
+          "Similarity": 0.7242870662961115
+        },
+        {
+          "ProductID": 4,
+          "Similarity": 0.7235333782703371
+        },
+        {
+          "ProductID": 36,
+          "Similarity": 0.6926292710941636
+        },
+        {
+          "ProductID": 40,
+          "Similarity": 0.66643644783896
+        },
+        {
+          "ProductID": 30,
+          "Similarity": 0.6230904866311349
+        },
+        {
+          "ProductID": 45,
+          "Similarity": 0.5785781286109306
+        }
+      ]
+    },
+    {
+      "ProductID": 34050,
+      "Recommendations": [
+        {
+          "ProductID": 45,
+          "Similarity": 0.9708216182828665
+        },
+        {
+          "ProductID": 34,
+          "Similarity": 0.9635129236939772
+        },
+        {
+          "ProductID": 274,
+          "Similarity": 0.9630116836643882
+        },
+        {
+          "ProductID": 210,
+          "Similarity": 0.9557815923885322
+        },
+        {
+          "ProductID": 311,
+          "Similarity": 0.9537812332260363
+        },
+        {
+          "ProductID": 10,
+          "Similarity": 0.9405649731002306
+        },
+        {
+          "ProductID": 365,
+          "Similarity": 0.9358121466353247
+        },
+        {
+          "ProductID": 141,
+          "Similarity": 0.9355286972457336
+        },
+        {
+          "ProductID": 160,
+          "Similarity": 0.9333183817524382
+        },
+        {
+          "ProductID": 204,
+          "Similarity": 0.9333174825680716
+        }
+      ]
+    },
+    {
+      "ProductID": 9804,
+      "Recommendations": [
+        {
+          "ProductID": 34,
+          "Similarity": 0.8228219774335095
+        },
+        {
+          "ProductID": 45,
+          "Similarity": 0.8135585725647944
+        },
+        {
+          "ProductID": 10,
+          "Similarity": 0.7959082652347113
+        },
+        {
+          "ProductID": 25,
+          "Similarity": 0.7887992678605544
+        },
+        {
+          "ProductID": 49,
+          "Similarity": 0.7568901534766677
+        },
+        {
+          "ProductID": 43,
+          "Similarity": 0.7541405613830907
+        },
+        {
+          "ProductID": 63,
+          "Similarity": 0.7529549952666171
+        },
+        {
+          "ProductID": 23,
+          "Similarity": 0.7461610434006896
+        },
+        {
+          "ProductID": 28,
+          "Similarity": 0.7395107507946631
+        },
+        {
+          "ProductID": 83,
+          "Similarity": 0.7200899891803242
+        }
+      ]
+    },
+    {
+      "ProductID": 20126,
+      "Recommendations": [
+        {
+          "ProductID": 169,
+          "Similarity": 0.9213648364979236
+        },
+        {
+          "ProductID": 37,
+          "Similarity": 0.9195342671513522
+        },
+        {
+          "ProductID": 28,
+          "Similarity": 0.9074567705137102
+        },
+        {
+          "ProductID": 54,
+          "Similarity": 0.8799584007012669
+        },
+        {
+          "ProductID": 83,
+          "Similarity": 0.8503137271456819
+        },
+        {
+          "ProductID": 127,
+          "Similarity": 0.8465539278194953
+        },
+        {
+          "ProductID": 27,
+          "Similarity": 0.8364731857941284
+        },
+        {
+          "ProductID": 29,
+          "Similarity": 0.8168000522951693
+        },
+        {
+          "ProductID": 100,
+          "Similarity": 0.8088886490814657
+        },
+        {
+          "ProductID": 9,
+          "Similarity": 0.7922670980434486
+        }
+      ]
+    },
+    {
+      "ProductID": 2144,
+      "Recommendations": [
+        {
+          "ProductID": 28,
+          "Similarity": 0.7843939168662566
+        },
+        {
+          "ProductID": 37,
+          "Similarity": 0.7604062233214248
+        },
+        {
+          "ProductID": 12,
+          "Similarity": 0.7270035892770743
+        },
+        {
+          "ProductID": 4,
+          "Similarity": 0.7137319007840477
+        },
+        {
+          "ProductID": 8,
+          "Similarity": 0.6906138297396512
+        },
+        {
+          "ProductID": 82,
+          "Similarity": 0.6560027304278259
+        },
+        {
+          "ProductID": 87,
+          "Similarity": 0.5590895235580532
+        },
+        {
+          "ProductID": 38,
+          "Similarity": 0.5401486349397935
+        },
+        {
+          "ProductID": 26,
+          "Similarity": 0.49527947029278996
+        },
+        {
+          "ProductID": 31,
+          "Similarity": 0.4517391900533459
+        }
+      ]
+    },
+    {
+      "ProductID": 20114,
+      "Recommendations": [
+        {
+          "ProductID": 45,
+          "Similarity": 0.9797269274111844
+        },
+        {
+          "ProductID": 1942,
+          "Similarity": 0.9792943710900418
+        },
+        {
+          "ProductID": 210,
+          "Similarity": 0.9708658947906535
+        },
+        {
+          "ProductID": 481,
+          "Similarity": 0.969932336608485
+        },
+        {
+          "ProductID": 248,
+          "Similarity": 0.9686808406569235
+        },
+        {
+          "ProductID": 794,
+          "Similarity": 0.9675794912082578
+        },
+        {
+          "ProductID": 11182,
+          "Similarity": 0.9672840887172993
+        },
+        {
+          "ProductID": 884,
+          "Similarity": 0.9664398131526065
+        },
+        {
+          "ProductID": 1158,
+          "Similarity": 0.9638614211522483
+        },
+        {
+          "ProductID": 123,
+          "Similarity": 0.9632558890584886
+        }
+      ]
+    },
+    {
+      "ProductID": 26209,
+      "Recommendations": [
+        {
+          "ProductID": 11182,
+          "Similarity": 0.9746796189269483
+        },
+        {
+          "ProductID": 4367,
+          "Similarity": 0.972555425677432
+        },
+        {
+          "ProductID": 248,
+          "Similarity": 0.9712315245388713
+        },
+        {
+          "ProductID": 481,
+          "Similarity": 0.9711380160391091
+        },
+        {
+          "ProductID": 210,
+          "Similarity": 0.9711290072353369
+        },
+        {
+          "ProductID": 2537,
+          "Similarity": 0.9705284948360631
+        },
+        {
+          "ProductID": 260,
+          "Similarity": 0.9703859618254984
+        },
+        {
+          "ProductID": 1999,
+          "Similarity": 0.9703352462755203
+        },
+        {
+          "ProductID": 890,
+          "Similarity": 0.9701134172254247
+        },
+        {
+          "ProductID": 45,
+          "Similarity": 0.9698844985509807
+        }
+      ]
+    },
+    {
+      "ProductID": 28555,
+      "Recommendations": [
+        {
+          "ProductID": 49,
+          "Similarity": 0.927021674140181
+        },
+        {
+          "ProductID": 45,
+          "Similarity": 0.9266293177166605
+        },
+        {
+          "ProductID": 96,
+          "Similarity": 0.9227154920847286
+        },
+        {
+          "ProductID": 34,
+          "Similarity": 0.922675166638926
+        },
+        {
+          "ProductID": 23,
+          "Similarity": 0.9175472396480333
+        },
+        {
+          "ProductID": 117,
+          "Similarity": 0.9167365264526339
+        },
+        {
+          "ProductID": 10,
+          "Similarity": 0.9139879401859166
+        },
+        {
+          "ProductID": 35,
+          "Similarity": 0.9102752116406764
+        },
+        {
+          "ProductID": 70,
+          "Similarity": 0.9086200072417533
+        },
+        {
+          "ProductID": 47,
+          "Similarity": 0.8928600411362905
+        }
+      ]
+    },
+    {
+      "ProductID": 5038,
+      "Recommendations": [
+        {
+          "ProductID": 37,
+          "Similarity": 0.7631631801921314
+        },
+        {
+          "ProductID": 28,
+          "Similarity": 0.6930792453260285
+        },
+        {
+          "ProductID": 36,
+          "Similarity": 0.5895483263779144
+        },
+        {
+          "ProductID": 18,
+          "Similarity": 0.5348570683464435
+        },
+        {
+          "ProductID": 34,
+          "Similarity": 0.4517017097331135
+        },
+        {
+          "ProductID": 25,
+          "Similarity": 0.44818939920696593
+        }
+      ]
+    },
+    {
+      "ProductID": 15221,
+      "Recommendations": [
+        {
+          "ProductID": 28,
+          "Similarity": 0.7936624251940417
+        },
+        {
+          "ProductID": 37,
+          "Similarity": 0.7865960585647779
+        },
+        {
+          "ProductID": 54,
+          "Similarity": 0.7819693922062746
+        },
+        {
+          "ProductID": 87,
+          "Similarity": 0.7787747761326016
+        },
+        {
+          "ProductID": 45,
+          "Similarity": 0.7544729180026624
+        },
+        {
+          "ProductID": 27,
+          "Similarity": 0.7385282667843486
+        },
+        {
+          "ProductID": 115,
+          "Similarity": 0.7355559712382734
+        },
+        {
+          "ProductID": 8,
+          "Similarity": 0.7162474744324289
+        },
+        {
+          "ProductID": 57,
+          "Similarity": 0.7130564331127464
+        },
+        {
+          "ProductID": 34,
+          "Similarity": 0.6962548207526249
+        }
+      ]
+    },
+    {
+      "ProductID": 45190,
+      "Recommendations": [
+        {
+          "ProductID": 83,
+          "Similarity": 0.8483033276681616
+        },
+        {
+          "ProductID": 150,
+          "Similarity": 0.8321710543760967
+        },
+        {
+          "ProductID": 37,
+          "Similarity": 0.8231974350080877
+        },
+        {
+          "ProductID": 100,
+          "Similarity": 0.7976205589290161
+        },
+        {
+          "ProductID": 207,
+          "Similarity": 0.7640074602507178
+        },
+        {
+          "ProductID": 294,
+          "Similarity": 0.7488102402696877
+        },
+        {
+          "ProductID": 517,
+          "Similarity": 0.7422841995142965
+        },
+        {
+          "ProductID": 158,
+          "Similarity": 0.7344911631232429
+        },
+        {
+          "ProductID": 28,
+          "Similarity": 0.7292131297217369
+        },
+        {
+          "ProductID": 127,
+          "Similarity": 0.7266624614265985
+        }
+      ]
+    },
+    {
+      "ProductID": 29503,
+      "Recommendations": [
+        {
+          "ProductID": 100,
+          "Similarity": 0.8005178553577355
+        },
+        {
+          "ProductID": 83,
+          "Similarity": 0.7048534988771497
+        },
+        {
+          "ProductID": 37,
+          "Similarity": 0.6915362566065346
+        },
+        {
+          "ProductID": 54,
+          "Similarity": 0.6592845546074663
+        },
+        {
+          "ProductID": 28,
+          "Similarity": 0.6413794184113077
+        },
+        {
+          "ProductID": 18,
+          "Similarity": 0.6293841218877915
+        },
+        {
+          "ProductID": 40,
+          "Similarity": 0.6292610568229557
+        },
+        {
+          "ProductID": 205,
+          "Similarity": 0.6136488883906485
+        },
+        {
+          "ProductID": 156,
+          "Similarity": 0.611252576298292
+        },
+        {
+          "ProductID": 8,
+          "Similarity": 0.5711801589048607
+        }
+      ]
+    },
+    {
+      "ProductID": 27958,
+      "Recommendations": [
+        {
+          "ProductID": 45,
+          "Similarity": 0.9280260296683874
+        },
+        {
+          "ProductID": 226,
+          "Similarity": 0.9269799737836527
+        },
+        {
+          "ProductID": 34,
+          "Similarity": 0.9173964739412069
+        },
+        {
+          "ProductID": 118,
+          "Similarity": 0.9088151836002515
+        },
+        {
+          "ProductID": 148,
+          "Similarity": 0.9054804488735224
+        },
+        {
+          "ProductID": 278,
+          "Similarity": 0.905186381148287
+        },
+        {
+          "ProductID": 95,
+          "Similarity": 0.8954129304496203
+        },
+        {
+          "ProductID": 123,
+          "Similarity": 0.8946299125588557
+        },
+        {
+          "ProductID": 141,
+          "Similarity": 0.8945468613863684
+        },
+        {
+          "ProductID": 10,
+          "Similarity": 0.889903136910176
+        }
+      ]
+    },
+    {
+      "ProductID": 24699,
+      "Recommendations": [
+        {
+          "ProductID": 37,
+          "Similarity": 0.8681227522256854
+        },
+        {
+          "ProductID": 28,
+          "Similarity": 0.8440193059187305
+        },
+        {
+          "ProductID": 12,
+          "Similarity": 0.7434202907940999
+        },
+        {
+          "ProductID": 8,
+          "Similarity": 0.7368186339493447
+        },
+        {
+          "ProductID": 29,
+          "Similarity": 0.7325582468813224
+        },
+        {
+          "ProductID": 4,
+          "Similarity": 0.7210703933205678
+        },
+        {
+          "ProductID": 36,
+          "Similarity": 0.6865986435222642
+        },
+        {
+          "ProductID": 18,
+          "Similarity": 0.6099915009839324
+        },
+        {
+          "ProductID": 31,
+          "Similarity": 0.600395990584508
+        },
+        {
+          "ProductID": 57,
+          "Similarity": 0.5966365279777471
+        }
+      ]
+    }
+  ]
+}
